@@ -383,3 +383,370 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 #EXTINF:0,Maradona, sin cortes
 #EXTGRP:Evento especial
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6148ab7eb75aa60007ca07a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="6 - Repretel" tvg-logo="" group-title="Entretenimiento",6 - Repretel
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/2
+#EXTINF:-1 tvg-id="" tvg-name="7-Teletica" tvg-logo="" group-title="Entretenimiento",7-Teletica
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/3
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="Peliculas",A&E HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/4
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Peliculas",AMC HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/5
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Peliculas",AXN HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/6
+#EXTINF:-1 tvg-id="" tvg-name="AZ click HD" tvg-logo="" group-title="Entretenimiento",AZ click HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/7
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Cultura",Animal Planet HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="Entretenimiento",Antena 3
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/9
+#EXTINF:-1 tvg-id="" tvg-name="Antena 7- RD" tvg-logo="" group-title="Entretenimiento",Antena 7- RD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/10
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="" group-title="Entretenimiento",Atres Series
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/11
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="Entretenimiento",Azcorazon
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/12
+#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="Entretenimiento",Azmundo
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/13
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="Entretenimiento",BBC World
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/14
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Infantiles",Baby TV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/15
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Infantiles",Boomerang
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/16
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="" group-title="Locales",CANAL 5
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/17
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NT HD" tvg-logo="" group-title="Infantiles",CARTOON NT HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/18
+#EXTINF:-1 tvg-id="" tvg-name="CCN" tvg-logo="" group-title="Entretenimiento",CCN
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/19
+#EXTINF:-1 tvg-id="" tvg-name="CERTV" tvg-logo="" group-title="Entretenimiento",CERTV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/20
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="" group-title="Peliculas",CINECANAL HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/21
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="" group-title="Entretenimiento",CNN Internacional
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/22
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Espanol" tvg-logo="" group-title="Entretenimiento",Cnn Espanol
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/23
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - PAN" tvg-logo="" group-title="Entretenimiento",Canal 4 - PAN
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/26
+#EXTINF:-1 tvg-id="" tvg-name="Canal Antigua - GUA" tvg-logo="" group-title="Entretenimiento",Canal Antigua - GUA
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/27
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="Peliculas",Cine Latino
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/28
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="" group-title="Peliculas",CineMax
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/29
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="Peliculas",Comedy Central HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/31
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="" group-title="Peliculas",DHE HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/32
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER HD" tvg-logo="" group-title="Cultura",DISCOVERY THEATHER HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/33
+#EXTINF:-1 tvg-id="" tvg-name="Digital 15 - RD" tvg-logo="" group-title="Entretenimiento",Digital 15 - RD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/34
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Cultura",Discovery Channel HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/35
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="" group-title="Cultura",Discovery ID HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/38
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="" group-title="Infantiles",Discovery Kids HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/39
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="Cultura",Discovery Science
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/40
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Cultura",Discovery Turbo
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/41
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="Cultura",Discovery World HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/42
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="Infantiles",Disney
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/43
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="Infantiles",Disney JR
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/44
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="" group-title="Infantiles",Disney XD HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/45
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertairment HD" tvg-logo="" group-title="Entretenimiento",E! Entertairment HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/46
+#EXTINF:-1 tvg-id="" tvg-name="ESPN +" tvg-logo="" group-title="Deportes",ESPN +
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/47
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  HD" tvg-logo="" group-title="Deportes",ESPN 2  HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/48
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD" tvg-logo="" group-title="Deportes",ESPN  HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/49
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="Deportes",ESPN 3 HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/50
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="Entretenimiento",EWTN
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/52
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="Entretenimiento",El Gourmet
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/53
+#EXTINF:-1 tvg-id="" tvg-name="Europa HD" tvg-logo="" group-title="Entretenimiento",Europa HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/54
+#EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="" group-title="Musica",Exa TV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/55
+#EXTINF:-1 tvg-id="" tvg-name="Star Action" tvg-logo="" group-title="Peliculas",Star Action
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/56
+#EXTINF:-1 tvg-id="" tvg-name="Star Comedy" tvg-logo="" group-title="Peliculas",Star Comedy
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/57
+#EXTINF:-1 tvg-id="" tvg-name="Star Fun" tvg-logo="" group-title="Peliculas",Star Fun
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/58
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="Peliculas",Star Channel
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/59
+#EXTINF:-1 tvg-id="" tvg-name="Star Life" tvg-logo="" group-title="Peliculas",Star Life
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/60
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits" tvg-logo="" group-title="Peliculas",Star Hits
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/61
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="Deportes",FOX SPORTS 2 HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/62
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="" group-title="Deportes",FOX SPORTS 3 HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/63
+#EXTINF:-1 tvg-id="" tvg-name="Star Series" tvg-logo="" group-title="Peliculas",Star Series
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/64
+#EXTINF:-1 tvg-id="" tvg-name="FUTV HD CR" tvg-logo="" group-title="Deportes",FUTV HD CR
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/65
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Peliculas",FX HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/66
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies HD" tvg-logo="" group-title="Peliculas",FX Movies HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/67
+#EXTINF:-1 tvg-id="" tvg-name="Film & arts HD" tvg-logo="" group-title="Peliculas",Film & arts HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/68
+#EXTINF:-1 tvg-id="" tvg-name="Star Clasic" tvg-logo="" group-title="Peliculas",Star Clasic
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/69
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports  HD" tvg-logo="" group-title="Deportes",Fox Sports  HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/71
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="" group-title="Deportes",Golf Channel HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/73
+#EXTINF:-1 tvg-id="" tvg-name="Guatevision - GUA" tvg-logo="" group-title="Entretenimiento",Guatevision - GUA
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/74
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="Cultura",H2
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/75
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="Peliculas",HBO Family HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/76
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="Peliculas",HBO HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/77
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="" group-title="Peliculas",HBO Plus HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/78
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="" group-title="Peliculas",HBO XTREME
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/79
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" tvg-logo="" group-title="Peliculas",HBO2 HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/80
+#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="" group-title="Locales",HCH
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/81
+#EXTINF:-1 tvg-id="" tvg-name="HOLA! TV HD" tvg-logo="" group-title="Entretenimiento",HOLA! TV HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/82
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="Cultura",History HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/83
+#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" tvg-logo="" group-title="Cultura",Home & Health HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/84
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="" group-title="Cultura",LIFE TIME
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/85
+#EXTINF:-1 tvg-id="" tvg-name="MASTV - PAN" tvg-logo="" group-title="Entretenimiento",MASTV - PAN
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/86
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="" group-title="Musica",MTV Live HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/89
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="" group-title="Musica",MTV 80s
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/90
+#EXTINF:-1 tvg-id="" tvg-name="MTV MX" tvg-logo="" group-title="Musica",MTV MX
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/91
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="Entretenimiento",Mas Chic
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/92
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="" group-title="Entretenimiento",Multimedios
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/93
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="Peliculas",Multipremier
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/94
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="" group-title="Cultura",Nat Geo HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/96
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="Infantiles",Nat Geo Kids
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/97
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Cultura",Nat Geo Wild
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/98
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Cultura",National Geographic
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/99
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD" tvg-logo="" group-title="Infantiles",Nick 2 HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/100
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="Infantiles",Nick Jr
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/101
+#EXTINF:-1 tvg-id="" tvg-name="Nick SIM HD" tvg-logo="" group-title="Infantiles",Nick SIM HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/102
+#EXTINF:-1 tvg-id="" tvg-name="PXTV Deportes" tvg-logo="" group-title="Deportes",PXTV Deportes
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/104
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="" group-title="Peliculas",Paramount HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/105
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="" group-title="Entretenimiento",Pasiones HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/106
+#EXTINF:-1 tvg-id="" tvg-name="RCN - GUA" tvg-logo="" group-title="Entretenimiento",RCN - GUA
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/107
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="" group-title="Entretenimiento",RCN Novelas
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/108
+#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="" group-title="Entretenimiento",RHEMA TV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/109
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="" group-title="Infantiles",SEMILLITAS
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/110
+#EXTINF:-1 tvg-id="" tvg-name="SERTV - PAN" tvg-logo="" group-title="Entretenimiento",SERTV - PAN
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/111
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="Peliculas",SONY HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/113
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="Peliculas",SPACE HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/114
+#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="" group-title="Locales",Sembrador
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/115
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="Entretenimiento",Star TVE HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/116
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="Entretenimiento",Sun Channel
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/118
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="Peliculas",SyFy HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/119
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="Peliculas",TCM
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/120
+#EXTINF:-1 tvg-id="" tvg-name="TELECADENA 7 Y 4" tvg-logo="" group-title="Locales",TELECADENA 7 Y 4
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/121
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Entretenimiento",TLC
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/122
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Peliculas",TNT HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/123
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="Peliculas",TNT Series HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/124
+#EXTINF:-1 tvg-id="" tvg-name="TSI" tvg-logo="" group-title="Locales",TSI
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/125
+#EXTINF:-1 tvg-id="" tvg-name="TV  Max - PAN" tvg-logo="" group-title="Entretenimiento",TV  Max - PAN
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/126
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="" group-title="Entretenimiento",Telemundo HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/129
+#EXTINF:-1 tvg-id="" tvg-name="Telesistema RD" tvg-logo="" group-title="Entretenimiento",Telesistema RD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/130
+#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="" group-title="Entretenimiento",Teleuniverso - RD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/131
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="" group-title="Peliculas",Universal HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/134
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="" group-title="Entretenimiento",Univision HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/135
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="Peliculas",WARNER HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/139
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="" group-title="Infantiles",ZooMoo
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/140
+#EXTINF:-1 tvg-id="" tvg-name="Eventos" tvg-logo="" group-title="Deportes",Eventos
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/141
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 2" tvg-logo="" group-title="Deportes",Eventos 2
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/142
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="" group-title="Entretenimiento",Telenovelas
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/143
+#EXTINF:-1 tvg-id="" tvg-name="Tudn" tvg-logo="" group-title="Deportes",Tudn
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/144
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="Entretenimiento",Canal de las Estrellas
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/145
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia HD" tvg-logo="" group-title="Entretenimiento",Distrito Comedia HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/146
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="" group-title="Entretenimiento",Telemundo Miami
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/147
+#EXTINF:-1 tvg-id="" tvg-name="UNE TV" tvg-logo="" group-title="Locales",UNE TV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/148
+#EXTINF:-1 tvg-id="" tvg-name="TBN Enlace" tvg-logo="" group-title="Locales",TBN Enlace
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/154
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula HD" tvg-logo="" group-title="Peliculas",De Pelicula HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/157
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 HD" tvg-logo="" group-title="Locales",Canal 6 HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/158
+#EXTINF:-1 tvg-id="" tvg-name="Ebenezer Television" tvg-logo="" group-title="Locales",Ebenezer Television
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/159
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="" group-title="Locales",Canal 11
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/162
+#EXTINF:-1 tvg-id="" tvg-name="Starz Suspense" tvg-logo="" group-title="Peliculas",Starz Suspense
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/164
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 3" tvg-logo="" group-title="Deportes",Eventos 3
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/168
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 4" tvg-logo="" group-title="Deportes",Eventos 4
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/170
+#EXTINF:-1 tvg-id="" tvg-name="ToonCast" tvg-logo="" group-title="Infantiles",ToonCast
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/173
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 MX" tvg-logo="" group-title="Entretenimiento",Canal 5 MX
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/174
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 5" tvg-logo="" group-title="Deportes",Eventos 5
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/175
+#EXTINF:-1 tvg-id="" tvg-name="TeleProgreso" tvg-logo="" group-title="Locales",TeleProgreso
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/182
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sport" tvg-logo="" group-title="Deportes",TYC Sport
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/183
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional" tvg-logo="" group-title="Entretenimiento",Caracol Internacional
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/185
+#EXTINF:-1 tvg-id="" tvg-name="Tele Ceiba" tvg-logo="" group-title="Locales",Tele Ceiba
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/187
+#EXTINF:-1 tvg-id="" tvg-name="Eventos HN" tvg-logo="" group-title="Deportes",Eventos HN
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/188
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="" group-title="Locales",VTV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/193
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD" tvg-logo="" group-title="Entretenimiento",Azteca Uno HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/194
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="" group-title="Entretenimiento",Azteca 7 HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/195
+#EXTINF:-1 tvg-id="" tvg-name="Sports HD" tvg-logo="" group-title="Deportes",Sports HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/196
+#EXTINF:-1 tvg-id="" tvg-name="Qhubo TV" tvg-logo="" group-title="Locales",Qhubo TV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/197
+#EXTINF:-1 tvg-id="" tvg-name="CDN37 RD" tvg-logo="" group-title="Entretenimiento",CDN37 RD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/199
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Panama" tvg-logo="" group-title="Entretenimiento",Canal 13 Panama
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/202
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 El Salvador" tvg-logo="" group-title="Entretenimiento",Canal 2 El Salvador
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/203
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Guate" tvg-logo="" group-title="Entretenimiento",Canal 3 Guate
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/204
+#EXTINF:-1 tvg-id="" tvg-name="Tv Azteca Guate" tvg-logo="" group-title="Entretenimiento",Tv Azteca Guate
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/205
+#EXTINF:-1 tvg-id="" tvg-name="Canal Congreso Guate" tvg-logo="" group-title="Entretenimiento",Canal Congreso Guate
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/206
+#EXTINF:-1 tvg-id="" tvg-name="RD Color Vision " tvg-logo="" group-title="Entretenimiento",RD Color Vision 
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/207
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="Musica",Concert Channel
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/208
+#EXTINF:-1 tvg-id="" tvg-name="Euro Channel" tvg-logo="" group-title="Peliculas",Euro Channel
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/209
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="" group-title="Peliculas",Golden HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/210
+#EXTINF:-1 tvg-id="" tvg-name="Home Garden Latino" tvg-logo="" group-title="Cultura",Home Garden Latino
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/211
+#EXTINF:-1 tvg-id="" tvg-name="La Voz De Maria" tvg-logo="" group-title="Entretenimiento",La Voz De Maria
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/212
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="Musica",MTV 00s
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/213
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Hits" tvg-logo="" group-title="Musica",Mtv Hits
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/214
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="Peliculas",Multicinema
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/215
+#EXTINF:-1 tvg-id="" tvg-name="NEXT Panama" tvg-logo="" group-title="Entretenimiento",NEXT Panama
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/216
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="Peliculas",Studio Universal HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/217
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="Entretenimiento",TBS
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/218
+#EXTINF:-1 tvg-id="" tvg-name="TD+ Costa Rica" tvg-logo="" group-title="Deportes",TD+ Costa Rica
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/219
+#EXTINF:-1 tvg-id="" tvg-name="TV-Max Panama" tvg-logo="" group-title="Deportes",TV-Max Panama
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/220
+#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="" group-title="Entretenimiento",TV Chile
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/221
+#EXTINF:-1 tvg-id="" tvg-name="13-Costarica" tvg-logo="" group-title="Entretenimiento",13-Costarica
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/225
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 SV" tvg-logo="" group-title="Entretenimiento",Canal 10 SV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/226
+#EXTINF:-1 tvg-id="" tvg-name="TVM 25" tvg-logo="" group-title="Cultura",TVM 25
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/227
+#EXTINF:-1 tvg-id="" tvg-name="TD2 Costa Rica" tvg-logo="" group-title="Deportes",TD2 Costa Rica
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/228
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="Peliculas",HBO POP HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/223
+#EXTINF:-1 tvg-id="" tvg-name="Mega HD" tvg-logo="" group-title="Locales",Mega HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/229
+#EXTINF:-1 tvg-id="" tvg-name="4-Repretel" tvg-logo="" group-title="Entretenimiento",4-Repretel
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/230
+#EXTINF:-1 tvg-id="" tvg-name="D TV" tvg-logo="" group-title="Locales",D TV
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/232
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mexicano" tvg-logo="" group-title="Peliculas",Cine Mexicano
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/233
+#EXTINF:-1 tvg-id="" tvg-name="Cine Platino" tvg-logo="" group-title="Peliculas",Cine Platino
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/234
+#EXTINF:-1 tvg-id="" tvg-name="Cine Premium" tvg-logo="" group-title="Peliculas",Cine Premium
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/235
+#EXTINF:-1 tvg-id="" tvg-name="Tru Tv" tvg-logo="" group-title="Locales",Tru Tv
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/236
+#EXTINF:-1 tvg-id="" tvg-name="Much Music" tvg-logo="" group-title="Musica",Much Music
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/237
+#EXTINF:-1 tvg-id="" tvg-name="NBC HD" tvg-logo="" group-title="Entretenimiento",NBC HD
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/238
+#EXTINF:-1 tvg-id="" tvg-name="Multivision " tvg-logo="" group-title="Locales",Multivision 
+http://190.92.63.182:25461/AdaManzanares/7vID3j3kJ8/239

@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:0,HCH
+#EXTGRP:Locales
+https://stream-08.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpjkhpcspbCyhz9Gjs3qqjFM)/dm/3/x81za5c/d/live-3.m3u8
+#EXTINF:0,Qhubotv
+#EXTGRP:Locales
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1401388025.m3u8
+#EXTINF:0,Campus TV
+#EXTGRP:Locales
+http://st2.worldkast.com/8004/8004/chunklist.m3u8
+#EXTINF:0,TV Copan
+#EXTGRP:Locales
+https://emisoras.hn:8081/tvcopan/tracks-v1a1/mono.m3u8
+#EXTINF:0,Teleprogreso
+#EXTGRP:Locales
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w675860039.m3u8
+#EXTINF:0,Alsacias Canal 28
+#EXTGRP:Locales
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Televisión Metrópolis
+#EXTGRP:Locales
+https://5b50404ec5e4c.streamlock.net/8060/8060/chunklist_w441596716.m3u8
+#EXTINF:0,Metro TV Honduras
+#EXTGRP:Locales
+https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ebenezer TV
+#EXTGRP:Locales
+http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/chunklist_w1827259801_b3128000.m3u8
+#EXTINF:0,Globo TV
+#EXTGRP:Locales
+https://panel.dattalive.com/8122/8122/chunklist_w822538588.m3u8
+#EXTINF:0,Dios Te Ve Honduras
+#EXTGRP:Locales
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+#EXTINF:0,UTV Honduras
+#EXTGRP:Locales
+https://live-utv.unah.edu.hn/web/salida.m3u8
+#EXTINF:0,CHOLUTECATV
+#EXTGRP:Locales
+https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Canal 6
+#EXTGRP:Locales
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
+#EXTINF:0,Dios Te Ve Kids
+#EXTGRP:Locales
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:0,DTV
+#EXTGRP:Locales
+https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,TeleHonduras
+#EXTGRP:Locales
+https://emisoras.hn:8081/telehn/tracks-v1a1/mono.m3u8
+#EXTINF:0,TEN HD Canal 10
+#EXTGRP:Locales
+https://604bda2ac71ad.streamlock.net/TENHD/TENLive.smil/chunklist_w1351907319_b1848000.m3u8
+#EXTINF:0,TV Estrella
+#EXTGRP:Locales
+https://emisoras.hn:8081/tvestrella/tracks-v1a1/mono.m3u8
+#EXTINF:0,tvmar
+#EXTGRP:Locales
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w45186942_b3428000_sleng.m3u8
+#EXTINF:0,Peliculas
+#EXTGRP:Locales
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8}

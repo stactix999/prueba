@@ -5,9 +5,6 @@ http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/781542742&profile=
 #EXTINF:-1 tvg-id="94c3438b34df4b694aa3efb25fac6fc5",Campus TV
 http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/188990356&profile=pass
 
-#EXTINF:-1 tvg-id="abce023ff0e5658c632da969fdef5810",Canal 6
-http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1057148587&profile=pass
-
 #EXTINF:-1 tvg-id="755243530e030d2c8703f435fe2f9872",CHOLUTECATV
 http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1396920949&profile=pass
 
@@ -22,9 +19,6 @@ http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/981422888&profile=
 
 #EXTINF:-1 tvg-id="9b1e7972eebf9f3c92d84a7ac0375b86",Ebenezer TV
 http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1920540315&profile=pass
-
-#EXTINF:-1 tvg-id="098f388dcfb0f1e5e23d91cd27dc9de1",Globo TV
-http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/221810441&profile=pass
 
 #EXTINF:-1 tvg-id="6df26593de228c04f04da5696a283091",HCH
 https://stream-07.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpjkhpcspbCyhz9Gjs3qqjFM)/dm/3/x81za5c/d/live-2.m3u8

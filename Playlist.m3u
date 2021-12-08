@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,HCH
 #EXTGRP:Locales
-https://stream-08.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpjkhpcspbCyhz9Gjs3qqjFM)/dm/3/x81za5c/d/live-3.m3u8#cell=lcore
+https://stream-07.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpjkhpcspbCyhz9Gjs3qqjFM)/dm/3/x81za5c/d/live-2.m3u8
 #EXTINF:0,Qhubotv
 #EXTGRP:Locales
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1401388025.m3u8
@@ -38,9 +38,6 @@ https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:0,CHOLUTECATV
 #EXTGRP:Locales
 https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Canal 6
-#EXTGRP:Locales
-https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
 #EXTINF:0,Dios Te Ve Kids
 #EXTGRP:Locales
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8

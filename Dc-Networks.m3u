@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,HCH
 #EXTGRP:Locales
-https://stream-08.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpjkhpcspbCyhz9Gjs3qqjFM)/dm/3/x81za5c/d/live-3.m3u8
+https://stream-08.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpjkhpcspbCyhz9Gjs3qqjFM)/dm/3/x81za5c/d/live-3.m3u8#cell=lcore
 #EXTINF:0,Qhubotv
 #EXTGRP:Locales
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1401388025.m3u8

@@ -1,0 +1,360 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Alsacias Canal 28" tvg-logo="" group-title="Locales",Alsacias Canal 28
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/803287288&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Campus TV" tvg-logo="" group-title="Locales",Campus TV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/446183349&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="CHOLUTECATV" tvg-logo="" group-title="Locales",CHOLUTECATV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/525375527&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te Ve Honduras" tvg-logo="" group-title="Locales",Dios Te Ve Honduras
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/45651100&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te Ve Kids" tvg-logo="" group-title="Locales",Dios Te Ve Kids
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1445556990&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="" group-title="Locales",DTV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1184501967&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Ebenezer TV" tvg-logo="" group-title="Locales",Ebenezer TV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1370042230&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="" group-title="Locales",HCH
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2089334564&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV Honduras" tvg-logo="" group-title="Locales",Metro TV Honduras
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1862067293&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Frecuencia Musical" tvg-logo="" group-title="Locales",Frecuencia Musical
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1178829928&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Qhubotv" tvg-logo="" group-title="Locales",Qhubotv
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1793862765&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="TeleHonduras" tvg-logo="" group-title="Locales",TeleHonduras
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1763660013&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Teleprogreso" tvg-logo="" group-title="Locales",Teleprogreso
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1120351513&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Televisión Metrópolis" tvg-logo="" group-title="Locales",Televisión Metrópolis
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/484307925&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="TEN HD Canal 10" tvg-logo="" group-title="Locales",TEN HD Canal 10
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/639653272&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Copan" tvg-logo="" group-title="Locales",TV Copan
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/270730707&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="HTV Estrella" tvg-logo="" group-title="Locales",TV Estrella
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/784969840&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="tvmar" tvg-logo="" group-title="Locales",tvmar
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1862647767&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="UTV Honduras" tvg-logo="" group-title="Locales",UTV Honduras
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/322237800&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="HVTV" tvg-logo="" group-title="Locales",VTV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/814171010&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="Cultura",A&E
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1172960796&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="2Animal Planet" tvg-logo="" group-title="Cultura",Animal Planet
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1097123570&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Cultura",Discovery Channel
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1965275594&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="" group-title="Cultura",Discovery H&H
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/492787603&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sciences" tvg-logo="" group-title="Cultura",Discovery Sciences
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/329990118&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="" group-title="Cultura",Discovery Theater
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1054896184&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Cultura",Discovery Turbo
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1410190726&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="Cultura",Discovery World
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/428085988&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="Cultura",El Gourmet
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1894036490&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="Cultura",H2
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1192549169&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="Cultura",History Channel
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1813377925&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="Cultura",Investigation Discovery
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/80707183&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="2NATGEO" tvg-logo="" group-title="Cultura",NATGEO
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2069512220&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO Wild" tvg-logo="" group-title="Cultura",NATGEO Wild
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1918602284&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Cultura",TLC
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/425738231&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="" group-title="Deportes",Afizzionados
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1436150186&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name=",Bein Sport Ñ" tvg-logo="" group-title="Deportes",Bein Sport Ñ
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1873127245&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT" tvg-logo="" group-title="Deportes",CLARO SPORT
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1971376672&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="" group-title="Deportes",DIRECTV SPORT
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/535871686&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="" group-title="Deportes",DIRECTV SPORT 2
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/738960950&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 MEX" tvg-logo="" group-title="Deportes",ESPN 3 MEX
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1437445663&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="" group-title="Deportes",ESPN Deportes
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2066367438&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MEX" tvg-logo="" group-title="Deportes",ESPN MEX
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1538311373&profile=pass 
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport" tvg-logo="" group-title="Deportes",Fox Sport
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2084836801&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2 MEX" tvg-logo="" group-title="Deportes",Fox Sport 2 MEX
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1465398493&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3 MEX" tvg-logo="" group-title="Deportes",Fox Sport 3 MEX
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/148678612&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport MEX" tvg-logo="" group-title="Deportes",Fox Sport MEX
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/826804114&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport Premium" tvg-logo="" group-title="Deportes",Fox Sport Premium
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/497552652&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="GolTV" tvg-logo="" group-title="Deportes",GolTV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/777315762&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV2" tvg-logo="" group-title="Deportes",GOLTV2
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1681366181&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="" group-title="Deportes",NBA
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/123338099&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sport" tvg-logo="" group-title="Deportes",TyC Sport
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1619283326&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports2" tvg-logo="" group-title="Deportes",TyC Sports2
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1922935140&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Win sport 1" tvg-logo="" group-title="Deportes",Win sport 1
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/735556582&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Win sport +" tvg-logo="" group-title="Deportes",Win sport +
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1075697162&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Win Sport" tvg-logo="" group-title="Deportes",Win Sport
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1827120862&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Win Sport Plus" tvg-logo="" group-title="Deportes",Win Sport Plus
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1959001321&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="WWWE" tvg-logo="" group-title="Deportes",WWE
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/131078407&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Entretenimiento",AMC
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/541219647&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Entretenimiento",AXN
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1602427562&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-logo="" group-title="Entretenimiento",Cine Canal
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1714800621&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Fx" tvg-logo="" group-title="Entretenimiento",Fx
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/656699292&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="Entretenimiento",Golden
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1499623734&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="" group-title="Entretenimiento",Golden Plus
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1245986493&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="Entretenimiento",HBO Family
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/12777415&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO pop" tvg-logo="" group-title="Entretenimiento",HBO pop
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/395027516&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="Entretenimiento",HBO Signature
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/792876733&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO xtreme" tvg-logo="" group-title="Entretenimiento",HBO xtreme
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1482792959&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="Entretenimiento",HBO2
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/136239427&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="SM" tvg-logo="" group-title="Entretenimiento",SM
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/397735542&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Start Life" tvg-logo="" group-title="Entretenimiento",Start Life
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1735156206&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="Entretenimiento",Studio Universal
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2067887291&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="Entretenimiento",TBS
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/761980985&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="" group-title="Entretenimiento",Universal TV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/302731623&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="" group-title="Entretenimiento",Warner TV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/294332806&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="" group-title="Infantil",BOOMERANG
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1705838233&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantil",Cartoon Network
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/927879222&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="Infantil",Disney XD
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/619136574&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO Kids" tvg-logo="" group-title="Infantil",NATGEO Kids
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1258488604&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="" group-title="Infantil",NICK
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/496350983&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="Infantil",NICK JR
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1127928810&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="Infantil",Tooncast
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/190205319&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="26 TV" tvg-logo="" group-title="Externa",26 TV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1434366564&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefé Rosario" tvg-logo="" group-title="Externa",Telefé Rosario
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/686025577&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="Externa",Telemax
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/842918780&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Los Angeles" tvg-logo="" group-title="Externa",CBS News Los Angeles
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1772023796&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | STGO TV" tvg-logo="" group-title="Externa",CL | STGO TV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1183208382&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="LoveNature" tvg-logo="" group-title="Externa",LoveNature
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2074329622&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="TopMusic" tvg-logo="" group-title="Externa",TopMusic
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/568929839&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal IP" tvg-logo="" group-title="Externa",Canal IP
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/38830798&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN40" tvg-logo="" group-title="Mundo",ADN40
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1250231248&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Mundo",CNN
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/24956856&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" tvg-logo="" group-title="Mundo",CNN en Espanol
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2095227723&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas TV" tvg-logo="" group-title="Mundo",Las Estrellas TV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/568841722&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="Mundo",Lifetime
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/476473701&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MasChic" tvg-logo="" group-title="Mundo",MasChic
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/344163594&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="" group-title="Mundo",RCN 
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/139584323&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="" group-title="Mundo",Telefe
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1476712475&profile=pass
+
+##EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="" group-title="Mundo",TruTV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/533496524&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="" group-title="Musica",Bandamax
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/917902572&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Musica",MTV
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/9820319&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="" group-title="Musica",MTV Classic
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1860088892&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="Musica",MTV Hits
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/913846363&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="" group-title="Musica",MTV Live
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/499558369&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC" tvg-logo="" group-title="Musica",NICK MUSIC
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/967880171&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal 10 Cancun" tvg-logo="" group-title="Paises",Mexico | Canal 10 Cancun
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/358621334&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Mexico | Cgtn" tvg-logo="" group-title="Paises",Mexico | Cgtn
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2018171316&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | M2O Tv" tvg-logo="" group-title="Paises",MUSICA | M2O Tv
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/616351436&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | Music Top" tvg-logo="" group-title="Paises",MUSICA | Music Top
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/233623572&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | Retro" tvg-logo="" group-title="Paises",MUSICA | Retro
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/2110152411&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | Retro HD" tvg-logo="" group-title="Paises",MUSICA | Retro HD
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/255421863&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Salvador | Telemax Hermosillo" tvg-logo="" group-title="Paises",Salvador | Telemax Hermosillo
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/526804309&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="ASalvador | Wow Alt" tvg-logo="" group-title="Paises",Salvador | Wow Alt
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1878889062&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="Salvador | Wow Tv" tvg-logo="" group-title="Paises",Salvador | Wow Tv
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1983415364&profile=pass
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",24/7 | Futurama
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1119434165&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons 2" tvg-logo="" group-title="24/7",24/7 | Los Simpsons 2
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/1371656284&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons 3" tvg-logo="" group-title="24/7",24/7 | Los Simpsons 3
+http://cemr1988:cemr221288@172.16.0.252:9981/stream/channelid/942113058&profile=pass
